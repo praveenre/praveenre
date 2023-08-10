@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praveenre
 - 👀 I’m interested in ... OpenSource
-- 🌱 I’m currently working on ... K8s, Python, Terraform, Ansible, Public Clouds, CI/CD
+- 🌱 I’m currently working on ... Public Cloud Infrastructure, K8s, Python, Powershell, Terraform, Ansible, CI/CD
 - 💞️ I’m looking to collaborate on ... All my learnings
 - 📫 How to reach me ... prepelle@gmail.com
 
