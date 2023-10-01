@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @praveenre
-- 👀 I’m interested in ... OpenSource
+- 👀 I’m interested in ... CNCF Projects
 - 🌱 I’m currently working on ... Public Cloud Infrastructure, K8s, Python, Powershell, Terraform, Ansible, CI/CD
-- 💞️ I’m looking to collaborate on ... All my learnings
-- 📫 How to reach me ... prepelle@gmail.com
+- 💞️ I’m looking to collaborate on ... Development Platforms
+- 📫 How to reach me ... praveen.repelle@gmail.com
 
 <!---
 praveenre/praveenre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
