@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Praveen Repelle
-- 👀 I’m interested in ... Azure Dev Infra / Platform Engineering
-- 🌱 I’m currently working on ... Azure Cloud Infrastructure, K8s, Python, Powershell, Terraform, GitHub Actions
-- 💞️ I’m looking to collaborate on ... Azure Internal Developer Platforms, SRE
+- 👀 I’m interested in ... Dev Infra / Platform Engineering
+- 🌱 I’m currently working on ... provisioning Cloud Infrastructure, K8s, Python, Powershell, Terraform, GitHub Actions
+- 💞️ I’m looking to collaborate on ... Internal Developer Platforms, SRE
 - 📫 How to reach me ... praveen.repelle@gmail.com
 
 <!---
