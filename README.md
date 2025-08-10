@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Praveen Repelle
-- 👀 I’m interested in ... Dev Infra / Platform Engineering
+- 👀 I’m interested in ... Dev Infra / Platform Engineering / GenAI / LLMOps
 - 🌱 I’m currently working on ... provisioning Cloud Infrastructure, K8s, Python, Powershell, Terraform, GitHub Actions
-- 💞️ I’m looking to collaborate on ... Internal Developer Platforms, SRE
+- 💞️ I’m looking to collaborate on ... Internal Developer Platforms, SRE, GenAIOps
 - 📫 How to reach me ... praveen.repelle@gmail.com
 
 <!---
