@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Praveen Repelle
 - 👀 I’m interested in ... DevSecOps/ MLOps/ LLMOps/ GenAI Development/ AI Engineering
 - 🌱 I’m currently working on ... provisioning Cloud Infrastructure with Terraform/Ansible, Application Deployments with GitHub Actions, Platform Automation
-- 💞️ I’m looking to collaborate on ... Internal Developer Platforms, SRE, GenAIOps
+- 💞️ I’m looking to collaborate on ... AI Infra, MLOps, LLMOps, Agentic AI
 - 📫 How to reach me ... praveen.repelle@gmail.com
 
 <!---
