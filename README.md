@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Praveen Repelle
-- 👀 I’m interested in ... DevSecOps/ MLOps/ LLMOps/ GenAI Development/ AI Engineering
-- 🌱 I’m currently working on ... AI Platform Automation
-- 💞️ I’m looking to collaborate on ... AI Infra, MLOps, LLMOps, Agentic AI
+- 👀 I’m interested in ... AI Engineering/Agentic AI/GenAIOps/LLMOps/MLOps
+- 🌱 I’m currently working on ... AI Platform Engineering
+- 💞️ I’m looking to collaborate on ... Agentic AI,AI Infra,LLMOps,MLOps 
 - 📫 How to reach me ... praveen.repelle@gmail.com
 
 <!---
